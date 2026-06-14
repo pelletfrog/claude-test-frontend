@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <main className={styles.main}>
       <div className={styles.card}>
-        <h1 className={styles.title}>2026 前端開發工作坊</h1>
+        <h1 className={styles.title}>2026 前端開發工作坊 - git 測試</h1>
 
         <section className={styles.info}>
           <p>歡迎參加本次工作坊！我們將帶您從零開始了解現代前端開發技術，涵蓋 HTML、CSS、JavaScript 以及 React 框架的基礎應用。</p>
